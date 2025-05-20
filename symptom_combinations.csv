@@ -1,0 +1,513 @@
+Anxiety,Mood Swings,Insomnia,Hallucinations,Social Withdrawal,Panic Attacks,Fatigue,Memory Loss,Confusion,diagnosis
+0,0,0,0,0,0,0,0,0,No mental illness
+0,0,0,0,0,0,0,0,1, no mental illness(due to lack of sleep or or overstressed)
+0,0,0,0,0,0,0,1,0, no mental illness(due to lack of sleep or or overstressed)
+0,0,0,0,0,0,0,1,1,Post-Traumatic Stress Disorder (PTSD)
+0,0,0,0,0,0,1,0,0, no mental illness(due to lack of sleep or or overstressed)
+0,0,0,0,0,0,1,0,1,Social Anxiety with Depression
+0,0,0,0,0,0,1,1,0,Panic Disorder with Social Anxiety
+0,0,0,0,0,0,1,1,1,Post-Traumatic Stress Disorder with Panic
+0,0,0,0,0,1,0,0,0,Bipolar Disorder
+0,0,0,0,0,1,0,0,1,Major Depressive Disorder (MDD)
+0,0,0,0,0,1,0,1,0,Schizophrenia
+0,0,0,0,0,1,0,1,1,Obsessive-Compulsive Disorder (OCD)
+0,0,0,0,0,1,1,0,0,Bipolar Disorder with Psychotic Features
+0,0,0,0,0,1,1,0,1,Psychotic Depression
+0,0,0,0,0,1,1,1,0,Psychosis
+0,0,0,0,0,1,1,1,1,Manic Episode
+0,0,0,0,1,0,0,0,0,Mood Disorder with Anxiety
+0,0,0,0,1,0,0,0,1,Cyclothymic Disorder
+0,0,0,0,1,0,0,1,0,Personality Disorder
+0,0,0,0,1,0,0,1,1,Depression with Panic
+0,0,0,0,1,0,1,0,0,Agoraphobia
+0,0,0,0,1,0,1,0,1,Depression with Social Withdrawal
+0,0,0,0,1,0,1,1,0,Panic Disorder with Fatigue
+0,0,0,0,1,0,1,1,1,Social Anxiety with Panic
+0,0,0,0,1,1,0,0,0,Social Anxiety with Depression
+0,0,0,0,1,1,0,0,1,Post-Traumatic Stress Disorder with Depression
+0,0,0,0,1,1,0,1,0,Obsessive-Compulsive Disorder with Depression
+0,0,0,0,1,1,0,1,1,Social Anxiety with Fatigue
+0,0,0,0,1,1,1,0,0,Severe Major Depression
+0,0,0,0,1,1,1,0,1,Psychotic Depression with Panic
+0,0,0,0,1,1,1,1,0,Schizoaffective Disorder
+0,0,0,0,1,1,1,1,1,Anxiety with Agoraphobia
+0,0,0,1,0,0,0,0,0,Depression with Insomnia
+0,0,0,1,0,0,0,0,1,Depression with Cognitive Decline
+0,0,0,1,0,0,0,1,0,Bipolar Disorder with Agoraphobia
+0,0,0,1,0,0,0,1,1,Chronic Anxiety
+0,0,0,1,0,0,1,0,0,Cognitive Dysfunction Disorder
+0,0,0,1,0,0,1,0,1,Obsessive-Compulsive Disorder with Psychotic Features
+0,0,0,1,0,0,1,1,0,Social Anxiety with Depression and Fatigue
+0,0,0,1,0,0,1,1,1,Schizophrenia with Depression
+0,0,0,1,0,1,0,0,0,Bipolar Disorder with Severe Depression
+0,0,0,1,0,1,0,0,1,Generalized Anxiety Disorder (GAD) with Psychotic Features
+0,0,0,1,0,1,0,1,0,Dysthymia
+0,0,0,1,0,1,0,1,1,Severe Panic Disorder
+0,0,0,1,0,1,1,0,0,Post-Traumatic Stress Disorder with Memory Loss
+0,0,0,1,0,1,1,0,1,Social Anxiety with Cognitive Decline
+0,0,0,1,0,1,1,1,0,Major Depressive Disorder with Panic
+0,0,0,1,0,1,1,1,1,Depression with Anxiety
+0,0,0,1,1,0,0,0,0,Panic Disorder with Cognitive Decline
+0,0,0,1,1,0,0,0,1,Mood Disorder with Psychotic Features
+0,0,0,1,1,0,0,1,0,Bipolar Disorder with Memory Loss
+0,0,0,1,1,0,0,1,1,Obsessive-Compulsive Disorder with Agoraphobia
+0,0,0,1,1,0,1,0,0,Bipolar Disorder with Fatigue
+0,0,0,1,1,0,1,0,1,Psychosis with Depression
+0,0,0,1,1,0,1,1,0,Severe Anxiety Disorder
+0,0,0,1,1,0,1,1,1,Post-Traumatic Stress Disorder with Sleep Disturbances
+0,0,0,1,1,1,0,0,0,Chronic Panic Disorder
+0,0,0,1,1,1,0,0,1,Severe Schizophrenia
+0,0,0,1,1,1,0,1,0,Major Depressive Disorder with Fatigue
+0,0,0,1,1,1,0,1,1,Social Anxiety with Psychotic Features
+0,0,0,1,1,1,1,0,0,Mood Disorder with Agoraphobia
+0,0,0,1,1,1,1,0,1,Major Depressive Disorder with Cognitive Decline
+0,0,0,1,1,1,1,1,0,Bipolar Disorder with Sleep Disturbances
+0,0,0,1,1,1,1,1,1,Generalized Anxiety Disorder with Fatigue
+0,0,1,0,0,0,0,0,0, no mental illness(due to lack of sleep or or overstressed)
+0,0,1,0,0,0,0,0,1, no mental illness(due to lack of sleep or or overstressed)
+0,0,1,0,0,0,0,1,0,Panic Disorder with Agoraphobia
+0,0,1,0,0,0,0,1,1,Post-Traumatic Stress Disorder with Anxiety
+0,0,1,0,0,0,1,0,0,Psychotic Depression with Anxiety
+0,0,1,0,0,0,1,0,1,Panic Disorder with Cognitive Dysfunction
+0,0,1,0,0,0,1,1,0,Schizophrenia with Agoraphobia
+0,0,1,0,0,0,1,1,1,Post-Traumatic Stress Disorder with Severe Symptoms
+0,0,1,0,0,1,0,0,0,Social Anxiety with Depression and Agoraphobia
+0,0,1,0,0,1,0,0,1,Bipolar Disorder with Agoraphobia and Depression
+0,0,1,0,0,1,0,1,0,Severe Obsessive-Compulsive Disorder
+0,0,1,0,0,1,0,1,1,Generalized Anxiety Disorder with Sleep Disturbances
+0,0,1,0,0,1,1,0,0,Bipolar Disorder with Cognitive Dysfunction
+0,0,1,0,0,1,1,0,1,Psychotic Depression with Cognitive Decline
+0,0,1,0,0,1,1,1,0,Severe Post-Traumatic Stress Disorder
+0,0,1,0,0,1,1,1,1,Major Depressive Disorder with Sleep Disturbances
+0,0,1,0,1,0,0,0,0,Chronic Anxiety with Panic
+0,0,1,0,1,0,0,0,1,Schizophrenia with Cognitive Decline
+0,0,1,0,1,0,0,1,0,Anxiety Disorder with Fatigue
+0,0,1,0,1,0,0,1,1,Bipolar Disorder with Cognitive Dysfunction and Panic
+0,0,1,0,1,0,1,0,0,Social Anxiety with Cognitive Dysfunction
+0,0,1,0,1,0,1,0,1,Major Depressive Disorder with Agoraphobia
+0,0,1,0,1,0,1,1,0,Post-Traumatic Stress Disorder with Cognitive Dysfunction
+0,0,1,0,1,0,1,1,1,Generalized Anxiety Disorder with Memory Loss
+0,0,1,0,1,1,0,0,0,Severe Schizophrenia with Fatigue
+0,0,1,0,1,1,0,0,1,Depression with Agoraphobia
+0,0,1,0,1,1,0,1,0,Bipolar Disorder with Social Anxiety
+0,0,1,0,1,1,0,1,1,Post-Traumatic Stress Disorder with Cognitive Dysfunction
+0,0,1,0,1,1,1,0,0,Panic Disorder with Insomnia
+0,0,1,0,1,1,1,0,1,Obsessive-Compulsive Disorder with Agoraphobia and Anxiety
+0,0,1,0,1,1,1,1,0,Bipolar Disorder with Severe Anxiety
+0,0,1,0,1,1,1,1,1,Severe Generalized Anxiety Disorder
+0,0,1,1,0,0,0,0,0,Chronic Major Depressive Disorder
+0,0,1,1,0,0,0,0,1,Schizophrenia with Sleep Disturbances
+0,0,1,1,0,0,0,1,0,Schizoaffective Disorder with Depression
+0,0,1,1,0,0,0,1,1,bipolar disorder
+0,0,1,1,0,0,1,0,0,Generalized Anxiety Disorder (GAD)
+0,0,1,1,0,0,1,0,1,Panic Disorder
+0,0,1,1,0,0,1,1,0,Post-Traumatic Stress Disorder (PTSD)
+0,0,1,1,0,0,1,1,1,Social Anxiety Disorder
+0,0,1,1,0,1,0,0,0,Social Anxiety with Depression
+0,0,1,1,0,1,0,0,1,Panic Disorder with Social Anxiety
+0,0,1,1,0,1,0,1,0,Post-Traumatic Stress Disorder with Panic
+0,0,1,1,0,1,0,1,1,Bipolar Disorder
+0,0,1,1,0,1,1,0,0,Major Depressive Disorder (MDD)
+0,0,1,1,0,1,1,0,1,Schizophrenia
+0,0,1,1,0,1,1,1,0,Obsessive-Compulsive Disorder (OCD)
+0,0,1,1,0,1,1,1,1,Bipolar Disorder with Psychotic Features
+0,0,1,1,1,0,0,0,0,Psychotic Depression
+0,0,1,1,1,0,0,0,1,Psychosis
+0,0,1,1,1,0,0,1,0,Manic Episode
+0,0,1,1,1,0,0,1,1,Mood Disorder with Anxiety
+0,0,1,1,1,0,1,0,0,Cyclothymic Disorder
+0,0,1,1,1,0,1,0,1,Personality Disorder
+0,0,1,1,1,0,1,1,0,Depression with Panic
+0,0,1,1,1,0,1,1,1,Agoraphobia
+0,0,1,1,1,1,0,0,0,Depression with Social Withdrawal
+0,0,1,1,1,1,0,0,1,Panic Disorder with Fatigue
+0,0,1,1,1,1,0,1,0,Social Anxiety with Panic
+0,0,1,1,1,1,0,1,1,Social Anxiety with Depression
+0,0,1,1,1,1,1,0,0,Post-Traumatic Stress Disorder with Depression
+0,0,1,1,1,1,1,0,1,Obsessive-Compulsive Disorder with Depression
+0,0,1,1,1,1,1,1,0,Social Anxiety with Fatigue
+0,0,1,1,1,1,1,1,1,Severe Major Depression
+0,1,0,0,0,0,0,0,0, no mental illness(due to lack of sleep or or overstressed)
+0,1,0,0,0,0,0,0,1, no mental illness(due to lack of sleep or or overstressed)
+0,1,0,0,0,0,0,1,0,Anxiety with Agoraphobia
+0,1,0,0,0,0,0,1,1,Depression with Insomnia
+0,1,0,0,0,0,1,0,0,Depression with Cognitive Decline
+0,1,0,0,0,0,1,0,1,Bipolar Disorder with Agoraphobia
+0,1,0,0,0,0,1,1,0,Chronic Anxiety
+0,1,0,0,0,0,1,1,1,Cognitive Dysfunction Disorder
+0,1,0,0,0,1,0,0,0,Obsessive-Compulsive Disorder with Psychotic Features
+0,1,0,0,0,1,0,0,1,Social Anxiety with Depression and Fatigue
+0,1,0,0,0,1,0,1,0,Schizophrenia with Depression
+0,1,0,0,0,1,0,1,1,Bipolar Disorder with Severe Depression
+0,1,0,0,0,1,1,0,0,Generalized Anxiety Disorder (GAD) with Psychotic Features
+0,1,0,0,0,1,1,0,1,Dysthymia
+0,1,0,0,0,1,1,1,0,Severe Panic Disorder
+0,1,0,0,0,1,1,1,1,Post-Traumatic Stress Disorder with Memory Loss
+0,1,0,0,1,0,0,0,0,Social Anxiety with Cognitive Decline
+0,1,0,0,1,0,0,0,1,Major Depressive Disorder with Panic
+0,1,0,0,1,0,0,1,0,Depression with Anxiety
+0,1,0,0,1,0,0,1,1,Panic Disorder with Cognitive Decline
+0,1,0,0,1,0,1,0,0,Mood Disorder with Psychotic Features
+0,1,0,0,1,0,1,0,1,Bipolar Disorder with Memory Loss
+0,1,0,0,1,0,1,1,0,Obsessive-Compulsive Disorder with Agoraphobia
+0,1,0,0,1,0,1,1,1,Bipolar Disorder with Fatigue
+0,1,0,0,1,1,0,0,0,Psychosis with Depression
+0,1,0,0,1,1,0,0,1,Severe Anxiety Disorder
+0,1,0,0,1,1,0,1,0,Post-Traumatic Stress Disorder with Sleep Disturbances
+0,1,0,0,1,1,0,1,1,Chronic Panic Disorder
+0,1,0,0,1,1,1,0,0,Severe Schizophrenia
+0,1,0,0,1,1,1,0,1,Major Depressive Disorder with Fatigue
+0,1,0,0,1,1,1,1,0,Social Anxiety with Psychotic Features
+0,1,0,0,1,1,1,1,1,Mood Disorder with Agoraphobia
+0,1,0,1,0,0,0,0,0,Major Depressive Disorder with Cognitive Decline
+0,1,0,1,0,0,0,0,1,Bipolar Disorder with Sleep Disturbances
+0,1,0,1,0,0,0,1,0,Generalized Anxiety Disorder with Fatigue
+0,1,0,1,0,0,0,1,1,Obsessive-Compulsive Disorder with Anxiety
+0,1,0,1,0,0,1,0,0,Anxiety Disorder with Cognitive Decline
+0,1,0,1,0,0,1,0,1,Panic Disorder with Agoraphobia
+0,1,0,1,0,0,1,1,0,Post-Traumatic Stress Disorder with Anxiety
+0,1,0,1,0,0,1,1,1,Psychotic Depression with Anxiety
+0,1,0,1,0,1,0,0,0,Panic Disorder with Cognitive Dysfunction
+0,1,0,1,0,1,0,0,1,Schizophrenia with Agoraphobia
+0,1,0,1,0,1,0,1,0,Post-Traumatic Stress Disorder with Severe Symptoms
+0,1,0,1,0,1,0,1,1,Social Anxiety with Depression and Agoraphobia
+0,1,0,1,0,1,1,0,0,Bipolar Disorder with Agoraphobia and Depression
+0,1,0,1,0,1,1,0,1,Severe Obsessive-Compulsive Disorder
+0,1,0,1,0,1,1,1,0,Generalized Anxiety Disorder with Sleep Disturbances
+0,1,0,1,0,1,1,1,1,Bipolar Disorder with Cognitive Dysfunction
+0,1,0,1,1,0,0,0,0,Psychotic Depression with Cognitive Decline
+0,1,0,1,1,0,0,0,1,Severe Post-Traumatic Stress Disorder
+0,1,0,1,1,0,0,1,0,Major Depressive Disorder with Sleep Disturbances
+0,1,0,1,1,0,0,1,1,Chronic Anxiety with Panic
+0,1,0,1,1,0,1,0,0,Schizophrenia with Cognitive Decline
+0,1,0,1,1,0,1,0,1,Anxiety Disorder with Fatigue
+0,1,0,1,1,0,1,1,0,Bipolar Disorder with Cognitive Dysfunction and Panic
+0,1,0,1,1,0,1,1,1,Social Anxiety with Cognitive Dysfunction
+0,1,0,1,1,1,0,0,0,Major Depressive Disorder with Agoraphobia
+0,1,0,1,1,1,0,0,1,Post-Traumatic Stress Disorder with Cognitive Dysfunction
+0,1,0,1,1,1,0,1,0,Generalized Anxiety Disorder with Memory Loss
+0,1,0,1,1,1,0,1,1,Severe Schizophrenia with Fatigue
+0,1,0,1,1,1,1,0,0,Depression with Agoraphobia
+0,1,0,1,1,1,1,0,1,Bipolar Disorder with Social Anxiety
+0,1,0,1,1,1,1,1,0,Post-Traumatic Stress Disorder with Cognitive Dysfunction
+0,1,0,1,1,1,1,1,1,Panic Disorder with Insomnia
+0,1,1,0,0,0,0,0,0,Obsessive-Compulsive Disorder with Agoraphobia and Anxiety
+0,1,1,0,0,0,0,0,1,Bipolar Disorder with Severe Anxiety
+0,1,1,0,0,0,0,1,0,Severe Generalized Anxiety Disorder
+0,1,1,0,0,0,0,1,1,Chronic Major Depressive Disorder
+0,1,1,0,0,0,1,0,0,Schizophrenia with Sleep Disturbances
+0,1,1,0,0,0,1,0,1,Mood Disorder with Fatigue and Cognitive Dysfunction
+0,1,1,0,0,0,1,1,0,Schizoaffective Disorder with Depression
+0,1,1,0,0,0,1,1,1,Generalized Anxiety Disorder (GAD)
+0,1,1,0,0,1,0,0,0,Panic Disorder
+0,1,1,0,0,1,0,0,1,Panic Disorder with Fatigue
+0,1,1,0,0,1,0,1,0,Social Anxiety Disorder
+0,1,1,0,0,1,0,1,1,Social Anxiety Disorder with Panic
+0,1,1,0,0,1,1,0,0,Major Depressive Disorder (MDD)
+0,1,1,0,0,1,1,0,1,Depression with Panic
+0,1,1,0,0,1,1,1,0,Depression with Anxiety
+0,1,1,0,0,1,1,1,1,Panic Disorder with Memory Loss
+0,1,1,0,1,0,0,0,0,Generalized Anxiety Disorder (GAD) with Fatigue
+0,1,1,0,1,0,0,0,1,Depression with Insomnia
+0,1,1,0,1,0,0,1,0,Bipolar Disorder
+0,1,1,0,1,0,0,1,1,Schizophrenia
+0,1,1,0,1,0,1,0,0,Social Withdrawal Disorder
+0,1,1,0,1,0,1,0,1,Anxiety with Insomnia
+0,1,1,0,1,0,1,1,0,Panic Disorder with Confusion
+0,1,1,0,1,0,1,1,1,Depression with Hallucinations
+0,1,1,0,1,1,0,0,0,Panic Disorder with Social Withdrawal
+0,1,1,0,1,1,0,0,1,Anxiety with Memory Loss
+0,1,1,0,1,1,0,1,0,Panic Disorder with Social Withdrawal
+0,1,1,0,1,1,0,1,1,Generalized Anxiety Disorder (GAD) with Insomnia
+0,1,1,0,1,1,1,0,0,Bipolar Disorder with Panic
+0,1,1,0,1,1,1,0,1,Bipolar Disorder with Insomnia
+0,1,1,0,1,1,1,1,0,Depression with Fatigue
+0,1,1,0,1,1,1,1,1,Generalized Anxiety Disorder (GAD) with Hallucinations
+0,1,1,1,0,0,0,0,0,Bipolar Disorder with Memory Loss
+0,1,1,1,0,0,0,0,1,Social Anxiety Disorder with Fatigue
+0,1,1,1,0,0,0,1,0,Panic Disorder with Fatigue
+0,1,1,1,0,0,0,1,1,Anxiety with Mood Swings
+0,1,1,1,0,0,1,0,0,Social Anxiety Disorder with Mood Swings
+0,1,1,1,0,0,1,0,1,Depression with Confusion
+0,1,1,1,0,0,1,1,0,Schizophrenia with Mood Swings
+0,1,1,1,0,0,1,1,1,Panic Disorder with Insomnia
+0,1,1,1,0,1,0,0,0,Generalized Anxiety Disorder (GAD) with Social Withdrawal
+0,1,1,1,0,1,0,0,1,Depression with Social Withdrawal
+0,1,1,1,0,1,0,1,0,Panic Disorder with Hallucinations
+0,1,1,1,0,1,0,1,1,Insomnia with Mood Swings
+0,1,1,1,0,1,1,0,0,Anxiety with Panic Attacks
+0,1,1,1,0,1,1,0,1,Major Depressive Disorder (MDD) with Insomnia
+0,1,1,1,0,1,1,1,0,Panic Disorder with Memory Loss
+0,1,1,1,0,1,1,1,1,Schizophrenia with Insomnia
+0,1,1,1,1,0,0,0,0,Depression with Panic Attacks
+0,1,1,1,1,0,0,0,1,Bipolar Disorder with Social Withdrawal
+0,1,1,1,1,0,0,1,0,Generalized Anxiety Disorder (GAD) with Confusion
+0,1,1,1,1,0,0,1,1,Panic Disorder with Hallucinations
+0,1,1,1,1,0,1,0,0,Anxiety with Mood Swings and Fatigue
+0,1,1,1,1,0,1,0,1,Major Depressive Disorder (MDD) with Memory Loss
+0,1,1,1,1,0,1,1,0,Generalized Anxiety Disorder (GAD) with Confusion
+0,1,1,1,1,0,1,1,1,Bipolar Disorder with Hallucinations
+0,1,1,1,1,1,0,0,0,Anxiety with Social Withdrawal
+0,1,1,1,1,1,0,0,1,Schizophrenia with Social Withdrawal
+0,1,1,1,1,1,0,1,0,no mental illness
+0,1,1,1,1,1,0,1,1,Bipolar Disorder with Confusion
+0,1,1,1,1,1,1,0,0,Panic Disorder with Mood Swings
+0,1,1,1,1,1,1,0,1,Depression with Panic Attacks and Hallucinations
+0,1,1,1,1,1,1,1,0,Panic Disorder with Anxiety and Insomnia
+0,1,1,1,1,1,1,1,1,Bipolar Disorder with Anxiety
+1,0,0,0,0,0,0,0,0, no mental illness(due to lack of sleep or or overstressed)
+1,0,0,0,0,0,0,0,1,no mental illness
+1,0,0,0,0,0,0,1,0, no mental illness(due to lack of sleep or or overstressed)
+1,0,0,0,0,0,0,1,1, no mental illness(due to lack of sleep or or overstressed)
+1,0,0,0,0,0,1,0,0, no mental illness(due to lack of sleep or or overstressed)
+1,0,0,0,0,0,1,0,1,Schizophrenia with Panic Attacks
+1,0,0,0,0,0,1,1,0,Anxiety with Panic Attacks and Social Withdrawal
+1,0,0,0,0,0,1,1,1,Depression with Memory Loss and Confusion
+1,0,0,0,0,1,0,0,0, no mental illness(due to lack of sleep or or overstressed)
+1,0,0,0,0,1,0,0,1,Panic Disorder with Mood Swings and Confusion
+1,0,0,0,0,1,0,1,0,Anxiety with Social Withdrawal and Mood Swings
+1,0,0,0,0,1,0,1,1,Panic Disorder with Social Withdrawal and Fatigue
+1,0,0,0,0,1,1,0,0,Major Depressive Disorder (MDD) with Hallucinations
+1,0,0,0,0,1,1,0,1,Bipolar Disorder with Insomnia and Memory Loss
+1,0,0,0,0,1,1,1,0,no mental illness
+1,0,0,0,0,1,1,1,1,Schizophrenia with Confusion and Hallucinations
+1,0,0,0,1,0,0,0,0, no mental illness(due to lack of sleep or or overstressed)
+1,0,0,0,1,0,0,0,1, no mental illness(due to lack of sleep or or overstressed)
+1,0,0,0,1,0,0,1,0, no mental illness(due to lack of sleep or or overstressed)
+1,0,0,0,1,0,0,1,1,Bipolar Disorder with Panic Attacks and Hallucinations
+1,0,0,0,1,0,1,0,0,Social Anxiety Disorder with Confusion
+1,0,0,0,1,0,1,0,1,Generalized Anxiety Disorder (GAD) with Fatigue and Mood Swings
+1,0,0,0,1,0,1,1,0,Panic Disorder with Memory Loss and Hallucinations
+1,0,0,0,1,0,1,1,1,Schizophrenia with Mood Swings and Social Withdrawal
+1,0,0,0,1,1,0,0,0,Major Depressive Disorder (MDD) with Confusion and Memory Loss
+1,0,0,0,1,1,0,0,1,Anxiety with Panic Attacks and Confusion
+1,0,0,0,1,1,0,1,0,Panic Disorder with Social Withdrawal and Mood Swings
+1,0,0,0,1,1,0,1,1,Depression with Hallucinations and Social Withdrawal
+1,0,0,0,1,1,1,0,0,Bipolar Disorder with Panic Attacks and Confusion
+1,0,0,0,1,1,1,0,1,Generalized Anxiety Disorder (GAD) with Insomnia and Mood Swings
+1,0,0,0,1,1,1,1,0,Panic Disorder with Memory Loss and Social Withdrawal
+1,0,0,0,1,1,1,1,1,Anxiety with Fatigue and Hallucinations
+1,0,0,1,0,0,0,0,0,Schizophrenia with Mood Swings and Fatigue
+1,0,0,1,0,0,0,0,1,Major Depressive Disorder (MDD) with Fatigue and Mood Swings
+1,0,0,1,0,0,0,1,0,Bipolar Disorder with Hallucinations and Fatigue
+1,0,0,1,0,0,0,1,1,Depression with Panic Attacks and Memory Loss
+1,0,0,1,0,0,1,0,0,Panic Disorder with Anxiety and Hallucinations
+1,0,0,1,0,0,1,0,1,Generalized Anxiety Disorder (GAD) with Confusion and Fatigue
+1,0,0,1,0,0,1,1,0,Major Depressive Disorder (MDD) with Anxiety and Panic Attacks
+1,0,0,1,0,0,1,1,1,Anxiety with Panic Attacks and Hallucinations
+1,0,0,1,0,1,0,0,0,Bipolar Disorder with Insomnia and Confusion
+1,0,0,1,0,1,0,0,1,Panic Disorder with Mood Swings and Social Withdrawal
+1,0,0,1,0,1,0,1,0,Schizophrenia with Insomnia and Social Withdrawal
+1,0,0,1,0,1,0,1,1,no mental illness
+1,0,0,1,0,1,1,0,0,Social Anxiety Disorder with Hallucinations
+1,0,0,1,0,1,1,0,1,Major Depressive Disorder (MDD) with Insomnia and Panic Attacks
+1,0,0,1,0,1,1,1,0,Social Anxiety Disorder with Panic Attacks and Hallucinations
+1,0,0,1,0,1,1,1,1,Panic Disorder with Fatigue
+1,0,0,1,1,0,0,0,0,Schizophrenia with Insomnia
+1,0,0,1,1,0,0,0,1,Post-Traumatic Stress Disorder (PTSD) with Panic Attacks
+1,0,0,1,1,0,0,1,0,Obsessive-Compulsive Disorder (OCD) with Fatigue and Social Withdrawal
+1,0,0,1,1,0,0,1,1,Bipolar Disorder with Psychotic Features
+1,0,0,1,1,0,1,0,0,Panic Disorder with Fatigue and Confusion
+1,0,0,1,1,0,1,0,1,Social Anxiety Disorder with Hallucinations
+1,0,0,1,1,0,1,1,0,Schizophrenia with Panic Attacks and Fatigue
+1,0,0,1,1,0,1,1,1,Postpartum Depression with Fatigue
+1,0,0,1,1,1,0,0,0,Panic Disorder with Memory Loss and Fatigue
+1,0,0,1,1,1,0,0,1,Social Anxiety Disorder with Hallucinations and Panic Attacks
+1,0,0,1,1,1,0,1,0,Generalized Anxiety Disorder (GAD) with Panic and Fatigue
+1,0,0,1,1,1,0,1,1,Bipolar Disorder with Psychotic Features and Memory Loss
+1,0,0,1,1,1,1,0,0,Schizophrenia with Fatigue and Insomnia
+1,0,0,1,1,1,1,0,1,Major Depressive Disorder (MDD) with Panic Attacks and Confusion
+1,0,0,1,1,1,1,1,0,Obsessive-Compulsive Disorder (OCD) with Panic Attacks and Memory Loss
+1,0,0,1,1,1,1,1,1,Depression with Panic Attacks and Fatigue
+1,0,1,0,0,0,0,0,0, no mental illness(due to lack of sleep or or overstressed)
+1,0,1,0,0,0,0,0,1,Bipolar Disorder with Psychotic Features and Social Withdrawal
+1,0,1,0,0,0,0,1,0,Social Anxiety Disorder with Panic and Insomnia
+1,0,1,0,0,0,0,1,1,Schizophrenia with Panic Attacks and Confusion
+1,0,1,0,0,0,1,0,0,Major Depressive Disorder (MDD) with Hallucinations
+1,0,1,0,0,0,1,0,1,Obsessive-Compulsive Disorder (OCD) with Panic and Fatigue
+1,0,1,0,0,0,1,1,0,Bipolar Disorder with Psychotic Features and Memory Loss
+1,0,1,0,0,0,1,1,1,Social Anxiety Disorder with Fatigue and Memory Loss
+1,0,1,0,0,1,0,0,0,Panic Disorder with Insomnia and Confusion
+1,0,1,0,0,1,0,0,1,Generalized Anxiety Disorder (GAD) with Social Withdrawal
+1,0,1,0,0,1,0,1,0,Post-Traumatic Stress Disorder (PTSD) with Insomnia
+1,0,1,0,0,1,0,1,1,Schizoaffective Disorder with Fatigue
+1,0,1,0,0,1,1,0,0,Major Depressive Disorder (MDD) with Panic Attacks and Insomnia
+1,0,1,0,0,1,1,0,1,Schizophrenia with Memory Loss and Fatigue
+1,0,1,0,0,1,1,1,0,Bipolar Disorder with Psychotic Features and Panic Attacks
+1,0,1,0,0,1,1,1,1,Generalized Anxiety Disorder (GAD) with Panic and Hallucinations
+1,0,1,0,1,0,0,0,0,Social Anxiety Disorder with Memory Loss and Panic Attacks
+1,0,1,0,1,0,0,0,1,Postpartum Depression with Panic and Fatigue
+1,0,1,0,1,0,0,1,0,Bipolar Disorder with Fatigue and Panic Attacks
+1,0,1,0,1,0,0,1,1,Depression with Panic and Hallucinations
+1,0,1,0,1,0,1,0,0,Obsessive-Compulsive Disorder (OCD) with Panic and Hallucinations
+1,0,1,0,1,0,1,0,1,Social Anxiety Disorder with Insomnia and Fatigue
+1,0,1,0,1,0,1,1,0,Schizophrenia with Insomnia and Memory Loss
+1,0,1,0,1,0,1,1,1,Panic Disorder with Memory Loss and Social Withdrawal
+1,0,1,0,1,1,0,0,0,Generalized Anxiety Disorder (GAD) with Panic and Confusion
+1,0,1,0,1,1,0,0,1,Bipolar Disorder with Psychotic Features and Hallucinations
+1,0,1,0,1,1,0,1,0,Schizoaffective Disorder with Memory Loss and Panic
+1,0,1,0,1,1,0,1,1,Major Depressive Disorder (MDD) with Panic and Insomnia
+1,0,1,0,1,1,1,0,0,Obsessive-Compulsive Disorder (OCD) with Fatigue and Hallucinations
+1,0,1,0,1,1,1,0,1,Social Anxiety Disorder with Hallucinations and Fatigue
+1,0,1,0,1,1,1,1,0,Bipolar Disorder with Memory Loss and Panic Attacks
+1,0,1,0,1,1,1,1,1,Post-Traumatic Stress Disorder (PTSD) with Panic Attacks
+1,0,1,1,0,0,0,0,0,Schizophrenia with Panic Attacks and Social Withdrawal
+1,0,1,1,0,0,0,0,1,Generalized Anxiety Disorder (GAD) with Panic Attacks and Fatigue
+1,0,1,1,0,0,0,1,0,Obsessive-Compulsive Disorder (OCD) with Insomnia and Panic
+1,0,1,1,0,0,0,1,1,Depression with Panic Attacks and Fatigue
+1,0,1,1,0,0,1,0,0,"Schizophrenia with Insomnia, Panic, and Confusion"
+1,0,1,1,0,0,1,0,1,"Bipolar Disorder with Fatigue, Panic, and Insomnia"
+1,0,1,1,0,0,1,1,0,Generalized Anxiety Disorder (GAD) with Insomnia and Fatigue
+1,0,1,1,0,0,1,1,1,Panic Disorder with Fatigue and Confusion
+1,0,1,1,0,1,0,0,0,Schizoaffective Disorder with Panic and Social Withdrawal
+1,0,1,1,0,1,0,0,1,"Major Depressive Disorder (MDD) with Insomnia, Panic, and Confusion"
+1,0,1,1,0,1,0,1,0,Obsessive-Compulsive Disorder (OCD) with Fatigue and Panic
+1,0,1,1,0,1,0,1,1,Bipolar Disorder with Social Withdrawal and Fatigue
+1,0,1,1,0,1,1,0,0,Post-Traumatic Stress Disorder (PTSD) with Insomnia and Panic Attacks
+1,0,1,1,0,1,1,0,1,Schizophrenia with Memory Loss and Panic Attacks
+1,0,1,1,0,1,1,1,0,Major Depressive Disorder (MDD) with Hallucinations and Panic
+1,0,1,1,0,1,1,1,1,"Social Anxiety Disorder with Panic, Fatigue, and Confusion"
+1,0,1,1,1,0,0,0,0,"Obsessive-Compulsive Disorder (OCD) with Panic, Hallucinations, and Fatigue"
+1,0,1,1,1,0,0,0,1,Bipolar Disorder with Panic and Fatigue
+1,0,1,1,1,0,0,1,0,"Schizophrenia with Panic, Fatigue, and Insomnia"
+1,0,1,1,1,0,0,1,1,Depression with Panic Attacks and Memory Loss
+1,0,1,1,1,0,1,0,0,Panic Disorder with Social Withdrawal and Memory Loss
+1,0,1,1,1,0,1,0,1,Generalized Anxiety Disorder (GAD) with Hallucinations and Panic Attacks
+1,0,1,1,1,0,1,1,0,Post-Traumatic Stress Disorder (PTSD) with Panic and Insomnia
+1,0,1,1,1,0,1,1,1,Schizophrenia with Panic and Memory Loss
+1,0,1,1,1,1,0,0,0,Obsessive-Compulsive Disorder (OCD) with Social Withdrawal and Fatigue
+1,0,1,1,1,1,0,0,1,Major Depressive Disorder (MDD) with Panic and Memory Loss
+1,0,1,1,1,1,0,1,0,"Panic Disorder with Social Withdrawal, Fatigue, and Memory Loss"
+1,0,1,1,1,1,0,1,1,"Generalized Anxiety Disorder (GAD) with Hallucinations, Panic, and Memory Loss"
+1,0,1,1,1,1,1,0,0,Social Anxiety Disorder with Insomnia and Panic Attacks
+1,0,1,1,1,1,1,0,1,Bipolar Disorder with Panic and Insomnia
+1,0,1,1,1,1,1,1,0,Schizoaffective Disorder with Memory Loss and Panic
+1,0,1,1,1,1,1,1,1,Obsessive-Compulsive Disorder (OCD) with Panic and Memory Loss
+1,1,0,0,0,0,0,0,0,"Panic Disorder with Insomnia, Fatigue, and Memory Loss"
+1,1,0,0,0,0,0,0,1,"Major Depressive Disorder (MDD) with Panic, Memory Loss, and Fatigue"
+1,1,0,0,0,0,0,1,0,Bipolar Disorder with Panic and Insomnia
+1,1,0,0,0,0,0,1,1,Schizophrenia with Social Withdrawal and Hallucinations
+1,1,0,0,0,0,1,0,0,Post-Traumatic Stress Disorder (PTSD) with Memory Loss and Insomnia
+1,1,0,0,0,0,1,0,1,Generalized Anxiety Disorder (GAD) with Panic and Social Withdrawal
+1,1,0,0,0,0,1,1,0,Bipolar Disorder with Psychotic Features and Panic Attacks
+1,1,0,0,0,0,1,1,1,"Social Anxiety Disorder with Panic, Memory Loss, and Insomnia"
+1,1,0,0,0,1,0,0,0,Obsessive-Compulsive Disorder (OCD) with Panic and Memory Loss
+1,1,0,0,0,1,0,0,1,Panic Disorder with Social Withdrawal and Hallucinations
+1,1,0,0,0,1,0,1,0,Schizoaffective Disorder with Panic and Social Withdrawal
+1,1,0,0,0,1,0,1,1,"Major Depressive Disorder (MDD) with Panic, Fatigue, and Confusion"
+1,1,0,0,0,1,1,0,0,Bipolar Disorder with Panic and Memory Loss
+1,1,0,0,0,1,1,0,1,Post-Traumatic Stress Disorder (PTSD) with Panic and Social Withdrawal
+1,1,0,0,0,1,1,1,0,Generalized Anxiety Disorder (GAD)
+1,1,0,0,0,1,1,1,1, Schizophrenia or Bipolar Disorder with Psychotic Features
+1,1,0,0,1,0,0,0,0, Major Depressive Disorder (MDD) with psychotic features
+1,1,0,0,1,0,0,0,1, Schizophrenia or Schizoaffective Disorder
+1,1,0,0,1,0,0,1,0, Bipolar Disorder with Psychotic Features
+1,1,0,0,1,0,0,1,1, Panic Disorder
+1,1,0,0,1,0,1,0,0, Panic Disorder with Fatigue
+1,1,0,0,1,0,1,0,1, Social Anxiety Disorder with Panic
+1,1,0,0,1,0,1,1,0, Social Anxiety Disorder
+1,1,0,0,1,0,1,1,1, Depression with Panic and Social Withdrawal
+1,1,0,0,1,1,0,0,0, Social Anxiety with Panic and Fatigue
+1,1,0,0,1,1,0,0,1," Social Anxiety with Panic, Fatigue, and Memory Loss"
+1,1,0,0,1,1,0,1,0, Depression with Panic and Social Withdrawal
+1,1,0,0,1,1,0,1,1, Generalized Anxiety Disorder with Fatigue
+1,1,0,0,1,1,1,0,0, Panic Disorder with Depression
+1,1,0,0,1,1,1,0,1, Major Depressive Disorder with Anxiety
+1,1,0,0,1,1,1,1,0, Schizoaffective Disorder with Depression
+1,1,0,0,1,1,1,1,1, Bipolar Disorder with Social Withdrawal
+1,1,0,1,0,0,0,0,0, Major Depressive Disorder with Panic
+1,1,0,1,0,0,0,0,1, Anxiety with Panic Attacks
+1,1,0,1,0,0,0,1,0, Schizophrenia with Major Depressive Features
+1,1,0,1,0,0,0,1,1, Panic Disorder with Anxiety
+1,1,0,1,0,0,1,0,0, Social Anxiety with Fatigue
+1,1,0,1,0,0,1,0,1, Social Anxiety Disorder with Depression
+1,1,0,1,0,0,1,1,0, Bipolar Disorder with Memory Loss
+1,1,0,1,0,0,1,1,1,Bipolar Disorder with Social Withdrawal
+1,1,0,1,0,1,0,0,0,Panic and Depression
+1,1,0,1,0,1,0,0,1,Anxiety with Schizophrenia
+1,1,0,1,0,1,0,1,0,Major Depressive Disorder with Fatigue
+1,1,0,1,0,1,0,1,1,Anxiety with Schizophrenia
+1,1,0,1,0,1,1,0,0,Panic and Anxiety
+1,1,0,1,0,1,1,0,1,Bipolar Disorder with Fatigue
+1,1,0,1,0,1,1,1,0,Schizophrenia with Social Anxiety
+1,1,0,1,0,1,1,1,1,Bipolar Disorder with Depression
+1,1,0,1,1,0,0,0,0,Anxiety with Depression
+1,1,0,1,1,0,0,0,1,Schizoaffective Disorder with Fatigue
+1,1,0,1,1,0,0,1,0,Depression with Fatigue
+1,1,0,1,1,0,0,1,1,Social Anxiety with Depression
+1,1,0,1,1,0,1,0,0,Panic with Social Anxiety
+1,1,0,1,1,0,1,0,1,Anxiety with Bipolar Disorder
+1,1,0,1,1,0,1,1,0,Panic Disorder with Schizophrenia
+1,1,0,1,1,0,1,1,1,Bipolar Disorder with Schizophrenia
+1,1,0,1,1,1,0,0,0,Depression with Panic and Social Anxiety
+1,1,0,1,1,1,0,0,1,Anxiety with Bipolar Disorder
+1,1,0,1,1,1,0,1,0, Social Anxiety with Depression
+1,1,0,1,1,1,0,1,1, Schizoaffective Disorder with Fatigue
+1,1,0,1,1,1,1,0,0, Schizophrenia with Panic
+1,1,0,1,1,1,1,0,1, Anxiety with Memory Loss
+1,1,0,1,1,1,1,1,0, Social Anxiety with Schizophrenia
+1,1,0,1,1,1,1,1,1, Panic Disorder with Fatigue
+1,1,1,0,0,0,0,0,0, Depression with Schizoaffective Disorder
+1,1,1,0,0,0,0,0,1, Schizophrenia with Panic
+1,1,1,0,0,0,0,1,0, Bipolar Disorder with Fatigue
+1,1,1,0,0,0,0,1,1, Panic Disorder with Depression
+1,1,1,0,0,0,1,0,0, Social Anxiety with Panic
+1,1,1,0,0,0,1,0,1,Major Depressive Disorder with Panic
+1,1,1,0,0,0,1,1,0, Panic Disorder with Social Anxiety
+1,1,1,0,0,0,1,1,1, Schizoaffective Disorder with Social Anxiety
+1,1,1,0,0,1,0,0,0, Depression with Anxiety
+1,1,1,0,0,1,0,0,1, Panic Disorder with Schizophrenia
+1,1,1,0,0,1,0,1,0, Bipolar Disorder with Memory Loss
+1,1,1,0,0,1,0,1,1, Depression with Social Anxiety
+1,1,1,0,0,1,1,0,0, Panic with Schizophrenia
+1,1,1,0,0,1,1,0,1, Schizophrenia with Social Anxiety
+1,1,1,0,0,1,1,1,0, Panic with Social Withdrawal
+1,1,1,0,0,1,1,1,1, Depression with Panic
+1,1,1,0,1,0,0,0,0, Anxiety with Bipolar Disorder
+1,1,1,0,1,0,0,0,1, Depression with Anxiety and Panic
+1,1,1,0,1,0,0,1,0,Schizophrenia with Depression
+1,1,1,0,1,0,0,1,1, Panic Disorder with Memory Loss
+1,1,1,0,1,0,1,0,0, Bipolar Disorder with Panic
+1,1,1,0,1,0,1,0,1, Panic Disorder with Depression
+1,1,1,0,1,0,1,1,0, Bipolar Disorder with Panic Disorder
+1,1,1,0,1,0,1,1,1, Social Anxiety with Panic
+1,1,1,0,1,1,0,0,0, Depression with Panic Disorder
+1,1,1,0,1,1,0,0,1, Panic Disorder with Social Anxiety
+1,1,1,0,1,1,0,1,0, Depression with Fatigue
+1,1,1,0,1,1,0,1,1,Schizoaffective Disorder with Panic
+1,1,1,0,1,1,1,0,0, Bipolar Disorder with Panic Disorder
+1,1,1,0,1,1,1,0,1,Anxiety with Fatigue
+1,1,1,0,1,1,1,1,0, Depression with Panic
+1,1,1,0,1,1,1,1,1, Schizoaffective Disorder with Panic
+1,1,1,1,0,0,0,0,0, Depression with Anxiety and Panic
+1,1,1,1,0,0,0,0,1, Panic Disorder with Social Anxiety
+1,1,1,1,0,0,0,1,0, Schizophrenia with Depression
+1,1,1,1,0,0,0,1,1, Panic Disorder with Depression and Social Anxiety
+1,1,1,1,0,0,1,0,0, Bipolar Disorder with Anxiety
+1,1,1,1,0,0,1,0,1,Social Anxiety with Fatigue
+1,1,1,1,0,0,1,1,0, Panic Disorder with Memory Loss
+1,1,1,1,0,0,1,1,1,Bipolar Disorder with Social Anxiety
+1,1,1,1,0,1,0,0,0, Anxiety with Bipolar Disorder
+1,1,1,1,0,1,0,0,1,Panic Disorder with Fatigue
+1,1,1,1,0,1,0,1,0, Depression with Social Anxiety
+1,1,1,1,0,1,0,1,1,Social Anxiety with Depression
+1,1,1,1,0,1,1,0,0,Panic Disorder with Depression
+1,1,1,1,0,1,1,0,1,Anxiety with Panic Disorder
+1,1,1,1,0,1,1,1,0,Depression with Panic and Social Anxiety
+1,1,1,1,0,1,1,1,1,Bipolar Disorder with Panic
+1,1,1,1,1,0,0,0,0,Panic Disorder with Social Withdrawal
+1,1,1,1,1,0,0,0,1,Depression with Panic Disorder
+1,1,1,1,1,0,0,1,0, Severe Anxiety with Fatigue
+1,1,1,1,1,0,0,1,1,Severe Anxiety with Social Withdrawal
+1,1,1,1,1,0,1,0,0,  Severe Anxiety with Panic
+1,1,1,1,1,0,1,0,1,  Bipolar Disorder with Severe Depression
+1,1,1,1,1,0,1,1,0, Bipolar Disorder with Fatigue
+1,1,1,1,1,0,1,1,1,  Bipolar Disorder with Panic Disorder
+1,1,1,1,1,1,0,0,0, Bipolar Disorder with Social Anxiety
+1,1,1,1,1,1,0,0,1,  Bipolar Disorder with Depression
+1,1,1,1,1,1,0,1,0,Bipolar Disorder with Memory Loss
+1,1,1,1,1,1,0,1,1,Bipolar Disorder with Anxiety
+1,1,1,1,1,1,1,0,0, Bipolar Disorder with Psychosis
+1,1,1,1,1,1,1,0,1,Severe Depression with Panic
+1,1,1,1,1,1,1,1,0, Severe Depression with Fatigue
+1,1,1,1,1,1,1,1,1,Severe Depression with Anxiety

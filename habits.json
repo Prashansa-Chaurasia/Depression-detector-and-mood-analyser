@@ -1,0 +1,38 @@
+{
+    "Meditation": {
+        "category": "Morning routine",
+        "frequency": "daily",
+        "description": "Doing 30 minutes meditation in the morning hours",
+        "streak": 1,
+        "completed_dates": [
+            "2024-12-08"
+        ]
+    },
+    "Exercises": {
+        "category": "Health Conscious",
+        "frequency": "daily",
+        "description": "Exercise in morning and evevning ",
+        "streak": 1,
+        "completed_dates": [
+            "2024-12-08"
+        ]
+    },
+    "Project": {
+        "category": "Productive",
+        "frequency": "Weekend",
+        "description": "Working 1 hr on my project",
+        "streak": 1,
+        "completed_dates": [
+            "2024-12-09"
+        ]
+    },
+    "meditation": {
+        "category": "productivity",
+        "frequency": "weekly",
+        "description": "afternon",
+        "streak": 1,
+        "completed_dates": [
+            "2024-12-09"
+        ]
+    }
+}

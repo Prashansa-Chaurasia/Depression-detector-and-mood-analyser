@@ -1,0 +1,6 @@
+anxiety,mood_swings,insomnia,hallucinations,social_withdrawal,panic_attacks,fatigue,memory_loss,confusion,diagnosis
+1,1,1,0,1,1,1,0,0,bipolar_disorder
+0,0,1,0,0,0,0,0,0,healthy
+1,1,1,1,1,1,1,1,1,bipolar_disorder
+0,1,0,1,1,1,0,0,1,depression
+1,0,0,0,0,0,0,0,0,anxiety_disorder
